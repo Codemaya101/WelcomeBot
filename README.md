@@ -1,2 +1,5 @@
 # WelcomeBot
-A Bot that welcomes with a content that you set and welcomes in the direct message discord by being 24/7
+A discord bot that welcomes in your server also sends direct message to the user where the content can be set manually. The bot is 24/7 online.(I have mentioned how the bot can be made online free)
+
+Join our discord server?
+https://discord.gg/KGTxK4JC
